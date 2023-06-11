@@ -11,14 +11,13 @@ with col1:
 with col2:
     st.title('Dev Prakash')
     about_content = """
-    Hi,I am Dev Prakash, a highly skilled and experienced Python developer as well as an Android developer proficient in Kotlin. I graduated from Sir M Visvesvarya Institute of technology,bangalore as a Bachelors of engineering(B.E) in Electronics and communication Engineering, I have honed my skills and expertise to provide the best possible solutions to any development problem.
-    
+    I am Dev Prakash, a highly skilled and experienced Python and Android developer proficient in Kotlin. I hold a B.E. degree in Electronics and Communication Engineering from Sir M Visvesvarya Institute of Technology, Bangalore. Throughout my career, I have honed my skills to provide the best possible solutions to development problems. With expertise in Python and Kotlin, I am committed to delivering innovative and efficient solutions for clients' needs.
     """
 
     st.info(about_content)
 
 Content2 = """
-Below you can find some of apps i have built as python developer or a android Developer
+Below you can find some of apps i have built as python developer or a android Developer and many are still in Development
 """
 
 st.write(Content2)
